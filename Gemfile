@@ -54,7 +54,7 @@ end
 
 group :test do
   gem 'database_rewinder'
-  gem 'factory_girl_rails'
+  gem 'factory_bot_rails'
   gem 'rspec-rails'
 end
 
